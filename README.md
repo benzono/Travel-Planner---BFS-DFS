@@ -1,2 +1,2 @@
-# Travel-Planner---BFS-DFS
+# Travel-Planner---BFS&DFS
 Global travel planner
